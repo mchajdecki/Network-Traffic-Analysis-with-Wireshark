@@ -20,9 +20,38 @@
 
 <br/>
 
-<h2> Video Break Down Of Everythig Discussed In This Tutorial</h2>
+<h2>A Video Break Down Of Everythig Discussed In This Tutorial</h2>
 
 - ### [YouTube: Performing Activities and Network Traffic Analysis With Wireshark ](link)
+
+<h2>Environments and Technologies Used</h2>
+
+- Macbook Air - Windows 10 Pro and Linux Ubuntu Virtual Machines
+- Internet Browser (Google Chrome) for Mac - (Microsoft Edge) Windows VM's
+- Microsoft Azure
+- Wireshark
+
+<h2>Operating Systems Used</h2>
+
+  - macOS Monterey, Version 12.7.6
+  - Windows 10 Pro, Version 22H2 - x64 Gen2 (VM)
+  - Linux Ubuntu Server, Version 22.D4 LTS x64 Gen2
+
+ <h2>List of Prerequisites</h2>
+
+ - Windows PC or Mac / Laptop / Desktop
+ - Internet Access
+ - Microsoft Azure account
+
+<br/>
+
+<hr>
+
+<h1 id="vm">Creating two Virtual Machines in Mirosoft Azure - Windows & Linux</h1>
+
+<h2></h2>
+
+
 
 
 
