@@ -48,7 +48,9 @@
 
 <h1 id="vm">Creating Resources in Azure</h1>
 
-<h2></h2>
+- Creating A Resource Group
+- Windows & Linux Virtual Machines
+- Virtual Networks and Subnets
 
 
 
