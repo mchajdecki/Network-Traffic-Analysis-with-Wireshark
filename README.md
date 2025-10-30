@@ -7,7 +7,7 @@
 <h2>This tutorial outlines the following</h2>
 <ul>
 
-<li><a href="#vm">Creating A Windows & Linux Virtual Machines in Mirosoft Azure - Windows & Linux</a></li>
+<li><a href="#vm">Creating A Windows & Linux Virtual Machines in Mirosoft Azure</a></li>
 <li><a href="#vn">Creating a Virtual Network</a></li>
 <li><a href="#wireshark">Installing a network protocol analyzer that captures and displays data packets - Wireshark</a></li>
 <li><a href="#ping">Ping one Virtual Machine from the other</a></li>
