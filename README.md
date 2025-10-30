@@ -7,8 +7,7 @@
 <h2>This tutorial outlines the following</h2>
 <ul>
 
-<li><a href="#vm">Creating Resources In Azurw - Resource Groups - Windows & Linux Virtual Machines - Virtual Networks</a></li>
-<li><a href="#vn">Creating a Virtual Network</a></li>
+<li><a href="#vm">Creating Resources In Azure</a></li>
 <li><a href="#wireshark">Installing a network protocol analyzer that captures and displays data packets - Wireshark</a></li>
 <li><a href="#ping">Ping one Virtual Machine from the other</a></li>
 <li><a href="#firewall">Configuring A Firewall</a></li>
@@ -47,7 +46,7 @@
 
 <hr>
 
-<h1 id="vm">Creating two Virtual Machines in Mirosoft Azure - Windows & Linux</h1>
+<h1 id="vm">Creating Resources in Azure</h1>
 
 <h2></h2>
 
