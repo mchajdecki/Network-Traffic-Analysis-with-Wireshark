@@ -9,7 +9,7 @@
 
 <li><a href="#vm">Creating A Windows & Linux Virtual Machines in Mirosoft Azure - Windows & Linux</a></li>
 <li><a href="#vn">Creating a Virtual Network</a></li>
-<li><a href="#wireshark">Install a network protocol analyzer that captures and displays data packets - Wireshark</a></li>
+<li><a href="#wireshark">Installing a network protocol analyzer that captures and displays data packets - Wireshark</a></li>
 <li><a href="#ping">Ping one Virtual Machine from the other</a></li>
 <li><a href="#firewall">Configuring A Firewall</a></li>
 <li><a href="#ssh">Observe (SSH) Secure Shell</a></li>
