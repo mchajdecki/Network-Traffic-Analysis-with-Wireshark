@@ -7,8 +7,8 @@
 <h2>This tutorial outlines the following</h2>
 <ul>
 
-<li><a href="#vm">Creating Resources In Azure</a></li>
-<li><a href="#wireshark">Installing a network protocol analyzer that captures and displays data packets - Wireshark</a></li>
+<li><a href="#vm">Creating Resources In Azure - Resource Group - Virtual Machines</a></li>
+<li><a href="#wireshark">Installing a Packey Sniffer - Wireshark</a></li>
 <li><a href="#ping">Ping one Virtual Machine from the other</a></li>
 <li><a href="#firewall">Configuring A Firewall</a></li>
 <li><a href="#ssh">Observe (SSH) Secure Shell</a></li>
