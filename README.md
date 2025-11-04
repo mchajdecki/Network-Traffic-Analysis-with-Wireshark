@@ -13,7 +13,7 @@
 <li><a href="#firewall">Configuring A Firewall</a></li>
 <li><a href="#ssh">Observe (SSH) Secure Shell</a></li>
 <li><a href="#dhcp">Observe (DHCP) Dynamic Host Configuration Protocol Traffic</a></li>
-<li><a href="#dns">Observe (DNS) Domain Name Systems Traffic</a></li>
+<li><a href="#dns">Observe (DNS) Domain Name System Traffic</a></li>
 <li><a href="#rdp">Observe (RDP) Remote Desktop Protocol Traffic</a></li>
 </ul>
 
