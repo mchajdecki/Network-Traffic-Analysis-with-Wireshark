@@ -8,7 +8,7 @@
 <ul>
 
 <li><a href="#vm">Creating Resources In Microsoft Azure - Virtual Machines - Virtual Networks</a></li>
-<li><a href="#wireshark">Installing a Packet Sniffer - Wireshark</a></li>
+<li><a href="#wireshark">Installing A Protocol Analyzer - Wireshark</a></li>
 <li><a href="#ping">Ping one Virtual Machine from the other</a></li>
 <li><a href="#firewall">Configuring A Firewall</a></li>
 <li><a href="#ssh">Observe (SSH) Secure Shell</a></li>
