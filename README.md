@@ -7,7 +7,7 @@
 <h2>This tutorial outlines the following</h2>
 <ul>
 
-<li><a href="#vm">Creating Resources In Azure </a></li>
+<li><a href="#vm">Creating Resources In Microsoft Azure </a></li>
 <li><a href="#wireshark">Installing a Packet Sniffer - Wireshark</a></li>
 <li><a href="#ping">Ping one Virtual Machine from the other</a></li>
 <li><a href="#firewall">Configuring A Firewall</a></li>
