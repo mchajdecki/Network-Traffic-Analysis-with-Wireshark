@@ -71,7 +71,7 @@
 <h2>Creating a Resource Group</h2>
 
 <p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-7.jpg" alt="Creating a Resource Group - Slide_7"/>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/c06e3ccb2a4ea2837f38cc3fa9e081cbfba48612/images/Slide_2.jpg" alt="Creating a Resource Group - Slide_2"/>
 </p>
 <p>
   <ol type="1">
