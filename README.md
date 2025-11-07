@@ -88,7 +88,7 @@
 
 
 <p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-8.jpg" alt="Creating a Resource Group - Slide_8"/>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/3b9de4e9d29d3bfef370557ac746475482409505/images/Slide_3.jpg" alt="Creating a Resource Group - Slide_3"/>
 </p>
 <p>
   <ol type="1">
