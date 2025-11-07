@@ -102,12 +102,12 @@
 
 
 <p>
-<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-9.jpg" alt="Creating a Resource Group - Slide_9"/>
+<img src="https://github.com/mchajdecki/Performing-Activities-and-Network-Traffic-Analysis-With-Wireshark/blob/31461d7d54b43a9d36bba5a6b8259e1b59f89267/images/Slide_4.jpg" alt="Creating a Resource Group - Slide_4"/>
 </p>
 <p>
   <ol type="1">
     <li>A prompt message will display that the resource group has been successfully created.</li>
-    <li>The Resource Group that you create will show in the Resource Group folder with the chosen name - in this example it is named (New_Group).</li>
+    <li>The newly created Resource Group will show up on the Microsoft Azure main portal.</li>
     <li>The Resource Group has been created.</li>  
   </ol>
 </p>
