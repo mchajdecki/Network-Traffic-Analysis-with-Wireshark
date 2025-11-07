@@ -53,7 +53,7 @@
 - Linux Virtual Machine
 - Virtual Networks and Subnets
 
-  * For an in depth tutorial on how to get started with Microsoft Azure visit this tutorial <a href="https://github.com/mchajdecki/Microsoft-Azure" alt="Microsoft Azure Tutorial">
+<a href="https://github.com/mchajdecki/Microsoft-Azure">Microsoft Azure Full Tutorial</a>
 
 <h1 id="resource">Creating a Resource Group</h1>
 <h2>A Resource Group is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
