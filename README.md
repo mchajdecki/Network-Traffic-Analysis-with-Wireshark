@@ -46,13 +46,13 @@
 
 <hr>
 
-<h1 id="vm">Creating Resources in Azure</h1>
+<h1 id="vm">Resources Created in Azure</h1>
 
 - Creating A Resource Group
 - Windows & Linux Virtual Machines
 - Virtual Networks and Subnets
 
-- <h1 id="resource">Creating a Resource Group</h1>
+<h1 id="resource">Creating a Resource Group</h1>
 <h2>A Resource Group is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
 
 <p>
