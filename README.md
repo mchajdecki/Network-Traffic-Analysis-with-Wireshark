@@ -52,6 +52,67 @@
 - Windows & Linux Virtual Machines
 - Virtual Networks and Subnets
 
+- <h1 id="resource">Creating a Resource Group</h1>
+<h2>A Resource Group is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
+
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/a482d0c2d7e895dc4a95ed80be6b646379264302/images/Slide-6.jpg" alt="Creating a Resource Group - Slide_6"/>
+</p>
+<p>
+  <ol type="1">
+    <li>Find the Resource Group Option on the home page of the Azure Portal or type in the search box.</li>
+    <li>Click on the Resource Group Option to Continue.</li>
+  </ol>
+</p>
+<br />
+<hr>
+
+<h2>Creating a Resource Group</h2>
+
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-7.jpg" alt="Creating a Resource Group - Slide_7"/>
+</p>
+<p>
+  <ol type="1">
+    <li>Select the Subscription you are currently using.</li>
+    <li>Name the Resource Group.</li>
+    <li>Select the appropriate time zone you are located in.</li>
+    <li>Click Review + Create on the bottom of the page to continue.</li>
+  </ol>
+</p>
+<br />
+<hr>
+
+<h2>Creating a Resource Group</h2>
+
+
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-8.jpg" alt="Creating a Resource Group - Slide_8"/>
+</p>
+<p>
+  <ol type="1">
+    <li>Click create again to continue.</li>
+  </ol>
+</p>
+<br/>
+<hr>
+
+<h2>Creating a Resource Group</h2>
+
+
+<p>
+<img src="https://github.com/mchajdecki/Microsoft-Azure/blob/561c97d4a67f30e836fcdb2d0c3fd40904d72cc8/images/Slide-9.jpg" alt="Creating a Resource Group - Slide_9"/>
+</p>
+<p>
+  <ol type="1">
+    <li>A prompt message will display that the resource group has been successfully created.</li>
+    <li>The Resource Group that you create will show in the Resource Group folder with the chosen name - in this example it is named (New_Group).</li>
+    <li>The Resource Group has been created.</li>  
+  </ol>
+</p>
+<br/>
+<hr>
+
 
 
 
