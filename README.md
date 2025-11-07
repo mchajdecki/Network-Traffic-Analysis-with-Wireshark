@@ -46,7 +46,7 @@
 
 <hr>
 
-<h1 id="vm">Resources Created in Azure</h1>
+<h1 id="vm">In This tutorial we will be creating the following resources in Microsoft Azure</h1>
 
 - Resource Group
 - Windows Virtual Machine
